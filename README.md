@@ -14,6 +14,8 @@ O desafio deste projeto é conseguir identificar bons negócios dentro do portf�
  - Valores de "ID" duplicados foram removidos.
  - Foi criada uma nova coluna para representar as estações do ano, de acordo com as estações  dos Estados Unidos.
  
+O dataset original foi obtido através do [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction) e os significados das variáveis através do site [GeoDa Center](https://geodacenter.github.io/data-and-lab/KingCounty-HouseSales2015).
+
 As variáveis do dataset original são:
 
 Variável | Descrição
