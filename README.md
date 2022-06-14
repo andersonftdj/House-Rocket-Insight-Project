@@ -124,5 +124,9 @@ O objetivo do projeto foi alcançado com sucesso visto que foram gerados dois pr
 
 ## 7. Próximos Passos
 Algumas melhorias podem ser incrementadas no futuro:
- - Disponibilizar os produtos, ao invés de arquivos, dashboards online visando a facilidade do uso e acesso a esses conteúdos.
+ - Disponibilizar o resultado do projeto, ao invés de arquivos, dashboards online e interativos visando a facilidade do uso e acesso a esses conteúdos.
+   
+   -> Esta melhoria foi implementada e pode ser consultada [através deste link](https://analytics-house-rocket-dash.herokuapp.com/)
+
+   
  - Verificar se a distância da água influencia no preço do imóvel.
