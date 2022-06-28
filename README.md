@@ -52,8 +52,8 @@ Será entregue 2 relatórios:
  - Jupyter Notebook
  - Python 3.8.1
 
-### 3.2 Processo
-#### 3.2.1 Estratégia de Solução
+### 3.3 Processo
+#### 3.3.1 Estratégia de Solução
  Usando como base a metodologia cíclica do CRISP-DM e adaptando para as necessidades do projeto, a estratégia adotada foi a seguinte:
   1. Entendimento do modelo de negócio da empresa
   2. Entendimento do problema de negócio
@@ -64,7 +64,7 @@ Será entregue 2 relatórios:
   7. Validação das hipóteses e Insights gerados
 
 
-#### 3.2.2 Detalhamento da Solução
+#### 3.3.2 Detalhamento da Solução
 
 Recomendação de compra:
   - Coletar os dados.
